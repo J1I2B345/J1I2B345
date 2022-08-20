@@ -23,7 +23,7 @@ const aboutMe = {
 ```
 
 - 🌱 Im currently learning **Python.**
-- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize**
+- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, MongoDB, Mongoose, PostgreSQL, Sequelize**
 - 📫 How to reach me **juan.bevilacqua@outlook.com**
 - 📄 Know about my experiences I graduated as Lawyer from the University of Buenos Aires. I worked for years for the Prosecutor's Office of Buenos Aires State. Then, with the pandemic COVID-19 I decided to resing and have a fresh start. I had some savings and started looking for my passion. Then I found this world. It took a long time until I found Henry, a course that gave me the tools to develop my skills. It has been really challenging months but, no discussion, the best. I have learned a lot and I know that I have too much to learn but I really enjoy that. I try to improve my skills everyday and become a better person and programmer.
 
