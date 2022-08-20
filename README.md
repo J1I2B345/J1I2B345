@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @J1I2B345
-- 👀 I’m interested in trading and writting codes.
+- 👀 I’m interested in getting my first job in IT world.
 - 🌱 I’m currently learning at Henry
-- 📫 How to reach me +5491154680008.
+- 📫 How to reach me +5491154680008 and juan.bevilacqua@outlook.com
