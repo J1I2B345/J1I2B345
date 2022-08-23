@@ -7,7 +7,7 @@ I am 30 years old argentinian who loves video-games and technology. I am current
 ```javascript
 const aboutMe = {
 	pronouns: "he" | "him",
-	code: [Javascript, HTML, CSS, Java],
+	code: [Javascript, HTML, CSS, Python],
 	technologies: {
 		frontEnd: {
 			js: ["React", "Redux"],
